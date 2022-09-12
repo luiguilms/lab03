@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+
+}
+h2{
+    color: rgb(193, 210, 221);
+    text-align: center;
+
+}
+body{
+    text-align: left;
+}
+form{
+    padding-left: 500px;
+    
+}
+p{
+    color: rgb(192, 192, 201);
+    
+}
+input{
+    color: rgb(236, 243, 253);
+    background-color: rgb(100, 97, 97);
+    border-radius: 10%;
+    
+}
+
+
